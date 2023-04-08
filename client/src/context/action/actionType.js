@@ -1,0 +1,4 @@
+export const SUCCESS_GET_DATA = 'SUCCESS_GET_DATA'
+export const ADD_GET_DATA = 'ADD_GET_DATA'
+export const UPDATE_GET_DATA = 'UPDATE_GET_DATA'
+export const DELETE_GET_DATA = 'DELETE_GET_DATA'
